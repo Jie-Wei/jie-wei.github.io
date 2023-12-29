@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "About Me"
+title: "CV"
 permalink: /cv/
-author_profile: False
+author_profile: false
 redirect_from:
   - /resume
 ---
