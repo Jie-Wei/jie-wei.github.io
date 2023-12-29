@@ -1,21 +1,18 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "A Note on Economics"
+    url: /note-econ/
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
   - title: "Blog Posts"
     url: /year-archive/
+
+  - title: "Quotes"
+    url: /quotes/
     
-  - title: "CV"
+  - title: "Harmonica"
+    url: /harmonica/
+    
+  - title: "Education"
     url: /cv/
     
   - title: "Guide"

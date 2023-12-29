@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jie Wei"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-For more info
+About the Website
 ------
-Meow Meow Meow
+Documents some thoughts & notes & life
+
