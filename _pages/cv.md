@@ -11,7 +11,6 @@ redirect_from:
 
 Education
 ------
-* Xingyuan Honors College, Ocean University of China, 2017-2022
-* Exchange Student, University of Otago, 2020
-* M.S. in Quantitative Economics, NYU, 2022-2023
-* Ph.D in Economics, NYU, 2023-Now
+* <span style="color:blue;">Honors College of Xingyuan</span>, Ocean University of China, 2017-2019, 2021-2022
+* Exchange, University of Otago, 2020
+* Economics, NYU Stern & GSAS, 2022-Now

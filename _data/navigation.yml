@@ -3,11 +3,11 @@ main:
   - title: "A Note on Economics"
     url: /note-econ/
     
+  - title: "Retrospect"
+    url: /retrospect-econ/
+    
   - title: "Blog Posts"
     url: /year-archive/
-
-  - title: "Quotes"
-    url: /quotes/
     
   - title: "Harmonica"
     url: /harmonica/
